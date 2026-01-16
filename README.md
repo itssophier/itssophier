@@ -50,5 +50,4 @@
 
 ⭐ Always open to **collaborations, research projects, and internships** in Software Development or Artificial Intelligence. 
 
-ct: ...
--->
+
